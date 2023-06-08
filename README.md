@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <p>
     <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/{mwashburn1987}/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
+        <img src="https://api.vaunt.dev/v1/github/entities/{{mwashburn1987}}/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
     </a>
 </p>
